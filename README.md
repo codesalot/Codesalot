@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Codesalot
-- 👀 I’m interested in website dev, C++, Python, ect.
-- 🌱 I’m currently learning how to encorporate hardware and software together
+- 👀 I’m interested in website development, C++, Python, and more.
+- 🌱 I am learning how to use dozens of programming languages
 - 💞️ I’m looking to collaborate on (what I said)
-- 📫 You'll find out if you meet me😄
+- 📫 You can contact me if you start to work with me
 
 <!---
 Codesalot/Codesalot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
