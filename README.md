@@ -3,4 +3,6 @@
 - 👀 I love working in website development, C++, Python, and more
 - 🌱 I am learning dozens of programming languages (for fun)
 - 💞️ Anyone that wants colaboration can sure message me.
-- 📫 I can be reached at @Codesalot
+- 📫 I can be reached by mentioning @Codesalot
+
+Currently working in my Beautify framework, ampaScope web apis, and more.
