@@ -2,7 +2,7 @@
 # 👋 Hi, I’m @Codesalot
 - 👀 I love working in website development, C++, Python, and more
 - 🌱 I am learning dozens of programming languages (for fun)
-- 💞️ Anyone that wants colaboration can sure message me.
+- 💞️ Anyone that wants colaboration can submit a pull request on one of my projects
 - 📫 I can be reached by mentioning @Codesalot
 
 Currently working in my Beautify framework, ampaScope web apis, and more.
